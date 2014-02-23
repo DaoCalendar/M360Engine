@@ -1,0 +1,12 @@
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Data\bin\Debug\M360Engine.Data.dll
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Data\bin\Debug\M360Engine.Data.pdb
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Data\obj\Debug\M360Engine.Data.dll
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Data\obj\Debug\M360Engine.Data.pdb
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Data\obj\Debug\M360Engine.Data.csprojResolveAssemblyReference.cache
+E:\Projects\M360Engine\M360Engine.Data\bin\Debug\M360Engine.Data.dll
+E:\Projects\M360Engine\M360Engine.Data\bin\Debug\M360Engine.Data.pdb
+E:\Projects\M360Engine\M360Engine.Data\bin\Debug\M360Engine.Data.dll.CodeAnalysisLog.xml
+E:\Projects\M360Engine\M360Engine.Data\bin\Debug\M360Engine.Data.dll.lastcodeanalysissucceeded
+E:\Projects\M360Engine\M360Engine.Data\obj\Debug\M360Engine.Data.csprojResolveAssemblyReference.cache
+E:\Projects\M360Engine\M360Engine.Data\obj\Debug\M360Engine.Data.dll
+E:\Projects\M360Engine\M360Engine.Data\obj\Debug\M360Engine.Data.pdb

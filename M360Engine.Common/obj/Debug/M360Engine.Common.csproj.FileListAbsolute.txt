@@ -1,0 +1,12 @@
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Common\bin\Debug\M360Engine.Common.dll
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Common\bin\Debug\M360Engine.Common.pdb
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Common\obj\Debug\M360Engine.Common.dll
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Common\obj\Debug\M360Engine.Common.pdb
+C:\Users\Agustín\Desktop\M360Engine.Web\M360Engine.Common\obj\Debug\M360Engine.Common.csprojResolveAssemblyReference.cache
+E:\Projects\M360Engine\M360Engine.Common\bin\Debug\M360Engine.Common.dll
+E:\Projects\M360Engine\M360Engine.Common\bin\Debug\M360Engine.Common.pdb
+E:\Projects\M360Engine\M360Engine.Common\bin\Debug\M360Engine.Common.dll.CodeAnalysisLog.xml
+E:\Projects\M360Engine\M360Engine.Common\bin\Debug\M360Engine.Common.dll.lastcodeanalysissucceeded
+E:\Projects\M360Engine\M360Engine.Common\obj\Debug\M360Engine.Common.csprojResolveAssemblyReference.cache
+E:\Projects\M360Engine\M360Engine.Common\obj\Debug\M360Engine.Common.dll
+E:\Projects\M360Engine\M360Engine.Common\obj\Debug\M360Engine.Common.pdb
